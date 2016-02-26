@@ -30,7 +30,7 @@ gem 'activeadmin'
 
 # 
 gem 'mina'
-
+gem 'puma'
 
 
 
